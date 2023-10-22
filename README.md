@@ -84,4 +84,4 @@ There are 5 networks.
 - [x] [Install and configure DHCP on SIG-DC1](./win-svr-lab/Install%20and%20configure%20DHCP%20on%20SIG-DC1.md)
 - [x] [AD Users, Computers and OUs](./win-svr-lab/AD%20Users%20Computers%20and%20OUs.md)
 - [x] [Joining Domain](/win-svr-lab/Joining%20Domain.md)
-- [ ] Deploy Windows 10 Using MDT
+- [ ] [Deploy Windows 10 Using MDT](./win-svr-lab/Deploy%20Windows%2010%20Using%20MDT.md)
