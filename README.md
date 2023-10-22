@@ -82,4 +82,5 @@ There are 5 networks.
 
 - [x] [Setup SIG-DC1 as DC by installing ADDS, DNS](./win-svr-lab/Setup%20SIG-DC1%20as%20DC%20by%20installing%20ADDS,%20DNS.md)
 - [x] [Install and configure DHCP on SIG-DC1](./win-svr-lab/Install%20and%20configure%20DHCP%20on%20SIG-DC1.md)
-- [ ] Joining Domain
+- [x] [AD Users, Computers and OUs](./win-svr-lab/AD%20Users%20Computers%20and%20OUs.md)
+- [x] [Joining Domain](/win-svr-lab/Joining%20Domain.md)
